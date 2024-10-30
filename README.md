@@ -1,4 +1,4 @@
-# Neural networks with fast and bounded units learn flexible task abstractions
+# Neural task abstractions emerge in linear networks with fast and bounded units
 by Kai J. Sandbrink*, Jan P. Bauer*, Alexandra M. Proca*, Andrew M. Saxe, Christopher Summerfield, Ali Hummos*<br/>
 (* - equal contribution, randomized order)
 
@@ -24,7 +24,7 @@ Please cite our paper if you use this code in your research project.
 ```
 @article{NTA2024,
   author = {Sandbrink, Kai J. and Bauer, Jan P. and Proca, Alexandra M. and Saxe, Andrew M. and Summerfield, Christopher and Hummos, Ali},
-  title = {Neural networks with fast and bounded units learn flexible task abstractions},
+  title = {Neural task abstractions emerge in linear networks with fast and bounded units},
   publisher = {NeurIPS Spotlight},
   year = {2024}
 }
