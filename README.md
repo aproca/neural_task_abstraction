@@ -1,4 +1,4 @@
-# Neural task abstractions emerge in linear networks with fast and bounded units
+# Flexible task abstractions emerge in linear networks with fast and bounded units
 by Kai J. Sandbrink*, Jan P. Bauer*, Alexandra M. Proca*, Andrew M. Saxe, Christopher Summerfield, Ali Hummos*<br/>
 (* - equal contribution, randomized order)
 
