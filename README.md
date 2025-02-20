@@ -2,7 +2,7 @@
 by Kai J. Sandbrink*, Jan P. Bauer*, Alexandra M. Proca*, Andrew M. Saxe, Christopher Summerfield, Ali Hummos*<br/>
 (* - equal contribution, randomized order)
 
-Code for [Flexible task abstractions emerge in linear networks with fast and bounded units](https://openreview.net/forum?id=AbTpJl7vN6). For any questions about the code, contact [Alexandra](a.proca22@imperial.ac.uk) or [Jan](j.bauer@mail.huji.ac.il).
+Code for [Flexible task abstractions emerge in linear networks with fast and bounded units](https://openreview.net/forum?id=AbTpJl7vN6). For any questions about the code, contact Alexandra (a.proca22@imperial.ac.uk) or Jan (j.bauer@mail.huji.ac.il).
 
 ## Setup
 To set up the conda environment, run:
