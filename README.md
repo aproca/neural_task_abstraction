@@ -23,7 +23,8 @@ Please cite our paper if you use this code in your research project.
 
 ```
 @article{NTA2024,
-  author = {Sandbrink, Kai J. and Bauer, Jan P. and Proca, Alexandra M. and Saxe, Andrew M. and Summerfield, Christopher and Hummos, Ali},
+  author = {Sandbrink, Kai J. and Bauer, Jan P. and Proca, Alexandra M. and Saxe, Andrew M. 
+  and Summerfield, Christopher and Hummos, Ali},
   title = {Flexible task abstractions emerge in linear networks with fast and bounded units},
   publisher = {Advances in Neural Information Processing Systems},
   year = {2024}
