@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+# see https://godatadriven.com/blog/a-practical-guide-to-setuptools-and-pyproject-toml/
+# https://stackoverflow.com/questions/32688688/how-to-write-setup-py-to-include-a-git-repository-as-a-dependency/54701434#54701434
+
+[project]
+name = "lcs"
+version = "0.1.0"
+authors = [
+
+]
+description = ""
+
+dependencies = [
+"numpy",
+"scipy",
+
+"jax",
+"jaxlib",
+"jax-tqdm",
+"einops",
+
+"torch",
+"torchvision",
+"torchaudio",
+"tensordict",
+
+"joblib",
+"scikit-learn",
+
+"tqdm",
+"matplotlib",
+"jupyter",
+"ipympl",
+"seaborn",
+"skunk",
+"jaxtyping",
+"equinox",
+
+"simple-parsing",
+
+]
+
+[tool.setuptools.packages]
+find = {}
