@@ -1,9 +1,11 @@
-torch
+equinox
+jax
+jupyter
 matplotlib
 numpy
+scikit-learn
 scipy
+seaborn 
 torch
 torchvision
-seaborn
-jupyter
 tqdm

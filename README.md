@@ -2,24 +2,23 @@
 by Kai J. Sandbrink*, Jan P. Bauer*, Alexandra M. Proca*, Andrew M. Saxe, Christopher Summerfield, Ali Hummos*<br/>
 (* - equal contribution, randomized order)
 
-Code for [Flexible task abstractions emerge in linear networks with fast and bounded units](https://openreview.net/forum?id=AbTpJl7vN6). For any questions about the code, contact Alexandra (a.proca22@imperial.ac.uk) or Jan (j.bauer@mail.huji.ac.il).
+Code for [Flexible task abstractions emerge in linear networks with fast and bounded units](https://openreview.net/forum?id=AbTpJl7vN6). For any questions about the code, contact Jan (j.bauer@mail.huji.ac.il) or Alexandra (a.proca22@imperial.ac.uk).
 
-## Setup
-To set up the conda environment, run:
+## Installation
+To install the relevant libraries, run:
 ```
-conda env create -f NTA_environment.yml
-conda activate NTA_environment
+pip install -r requirements.txt
 ```
 
 ## Code
 TODO: include a more comprehensive description of the repo<br/>
-To run new simulations, you can create new configurations of hyperparameters (```Config``` in ```lcs/configs.py```) and use ```run_script.py```.
+For simulations, configurations of hyperparameters can be created using ```Config``` (in ```lcs/configs.py```) and be run using ```run_script.py```.
 
 ## Figures
-In ```lcs/figure_notebooks/```, we include notebooks to reproduce all simulations and figures in the manuscript (labeled by the respective figure).
+Notebooks to reproduce all simulations and figures in the manuscript (labeled by the respective figure) are in ```lcs/figure_notebooks/```.
 
 ## Citation
-Please cite our paper if you use this code in your research project.
+Please cite our paper if you use this code in your research.
 
 ```
 @article{NTA2024,
