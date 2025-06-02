@@ -11,7 +11,6 @@ pip install -r requirements.txt
 ```
 
 ## Code
-TODO: include a more comprehensive description of the repo/make it easier to run experiments(?)<br/>
 For simulations, configurations of hyperparameters can be created using ```Config``` (in ```lcs/configs.py```) and be run using ```run_script.py```.
 
 ## Figures
